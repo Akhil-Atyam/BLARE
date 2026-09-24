@@ -12,6 +12,7 @@ As a kid, i really wanted a hot wheel garage, honestly still do. So I decided to
 ## The Design
 I based it off the tutorial at first, then used a DXF file i found to etch the logo into the cad. Any AMS printer should be able to handle this.
 I also added a phone stand, this way i can maybe add a magsafe puck later and also use my phones standby mode.
+
 <img width="442" height="391" alt="image" src="https://github.com/user-attachments/assets/cdc95494-4599-48e4-b640-6b1111608d40" />
 
 
@@ -19,6 +20,7 @@ I also added a phone stand, this way i can maybe add a magsafe puck later and al
 This pcb is very similar to the tutorial, my apologies i just quite literally suck at PCB design. 
 BUTTT, I did add something, a grounding plane! I realize my traces were going to be tight, and I learned how to make one from a previous project.
 This way, i use WAYYY less traces.
+
 <img width="374" height="234" alt="image" src="https://github.com/user-attachments/assets/d795b7a2-ffda-4724-b605-44657d150659" />
 
 ## The code
